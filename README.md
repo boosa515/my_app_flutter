@@ -12,8 +12,6 @@ O aplicativo nasceu como uma evolução criativa do projeto padrão de "contador
 
 <div align="center">
   <img src="imagens/Screenshot_1772054042.png" width="250" alt="Tela 2">
-</div>
-
-<div align="center">
   <img src="imagens/Screenshot_1772054057.png" width="250" alt="Tela 6">
 </div>
+
