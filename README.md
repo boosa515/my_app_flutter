@@ -1,15 +1,15 @@
-# my_app_flutter
+# my_first_app_flutter
 <br/>
 
-# Diário Interativo - Meu Primeiro Projeto em Flutter
+# Interactive Diary - My First Flutter Project
 
-Este é o meu primeiríssimo projeto desenvolvido em Flutter! Ele foi criado para colocar em prática os conceitos fundamentais de desenvolvimento mobile e gerenciamento de estado que venho aprendendo na plataforma **DIO**.
+This is my very first project developed in Flutter! It was created to put into practice the fundamental concepts of mobile development and state management that I have been learning on the **DIO**.
 
-## Sobre o Projeto
+## About the Project
 
-O aplicativo nasceu como uma evolução criativa do projeto padrão de "contador" do Flutter. Em vez de apenas somar números em uma tela em branco, eu o transformei em um **passador de histórias interativo**. 
+The app was born as a creative evolution of Flutter's standard 'counter' project. Instead of simply adding numbers on a blank screen, I turned it into an **interactive story player**. 
 
-## Tela do Projeto
+## Project Screen
 
 <div align="center">
   <img src="imagens/Screenshot_1772054042.png" width="250" alt="Tela 2">
