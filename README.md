@@ -3,7 +3,7 @@
 
 # Interactive Diary - My First Flutter Project
 
-This is my very first project developed in Flutter! It was created to put into practice the fundamental concepts of mobile development and state management that I have been learning on the <a href="https://www.dio.me/" target="_blank">DIO</a> platform.
+This is my very first project developed in Flutter! It was created to put into practice the fundamental concepts of mobile development and state management that I have been learning on the [DIO](https://www.dio.me/) platform.
 
 ## About the Project
 
